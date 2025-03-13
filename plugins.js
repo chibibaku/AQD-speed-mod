@@ -52,5 +52,5 @@ var $plugins =
 {"name":"KNS_MessageExport","status":false,"description":"[ver.1.0.1(2022/3/23)]イベントとデータベース内のテキストをエクスポートします。","parameters":{}},
 {"name":"SentenceDataExtractor","status":false,"description":"ゲーム起動時にゲーム中の全メッセージをテキストファイルに書き出す","parameters":{}},
 {"name":"DRS_AllDataExtractor","status":false,"description":"ゲームのテキストデータをすべて抽出します。","parameters":{"saveActors":"true","saveArmors":"true","saveClasses":"true","saveCommonEvents":"true","saveEnemies":"true","saveItems":"true","saveMaps":"true","saveSkills":"true","saveStates":"true","saveSystem":"true","saveTroops":"true","saveWeapons":"true"}},
-{"name":"NRP_ChangeCharacterSpeed","status":true,"description":"NRP_ChangeCharacterSpeed","parameters":{"PlayerSpeed":"8","PlayerBasicSpeedRate":"400"}}
+{"name":"NRP_ChangeCharacterSpeed","status":true,"description":"NRP_ChangeCharacterSpeed","parameters":{"PlayerSpeed":"4","PlayerBasicSpeedRate":"400"}}
 ];
